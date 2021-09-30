@@ -1,0 +1,16 @@
+C:\Users\gsida\Desktop\Repo\Operators exercise 2\obj\Debug\net5.0\Operators exercise 2.csproj.AssemblyReference.cache
+C:\Users\gsida\Desktop\Repo\Operators exercise 2\obj\Debug\net5.0\Operators exercise 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gsida\Desktop\Repo\Operators exercise 2\obj\Debug\net5.0\Operators exercise 2.AssemblyInfoInputs.cache
+C:\Users\gsida\Desktop\Repo\Operators exercise 2\obj\Debug\net5.0\Operators exercise 2.AssemblyInfo.cs
+C:\Users\gsida\Desktop\Repo\Operators exercise 2\obj\Debug\net5.0\Operators exercise 2.csproj.CoreCompileInputs.cache
+C:\Users\gsida\Desktop\Repo\Operators exercise 2\bin\Debug\net5.0\Operators exercise 2.exe
+C:\Users\gsida\Desktop\Repo\Operators exercise 2\bin\Debug\net5.0\Operators exercise 2.deps.json
+C:\Users\gsida\Desktop\Repo\Operators exercise 2\bin\Debug\net5.0\Operators exercise 2.runtimeconfig.json
+C:\Users\gsida\Desktop\Repo\Operators exercise 2\bin\Debug\net5.0\Operators exercise 2.runtimeconfig.dev.json
+C:\Users\gsida\Desktop\Repo\Operators exercise 2\bin\Debug\net5.0\Operators exercise 2.dll
+C:\Users\gsida\Desktop\Repo\Operators exercise 2\bin\Debug\net5.0\ref\Operators exercise 2.dll
+C:\Users\gsida\Desktop\Repo\Operators exercise 2\bin\Debug\net5.0\Operators exercise 2.pdb
+C:\Users\gsida\Desktop\Repo\Operators exercise 2\obj\Debug\net5.0\Operators exercise 2.dll
+C:\Users\gsida\Desktop\Repo\Operators exercise 2\obj\Debug\net5.0\ref\Operators exercise 2.dll
+C:\Users\gsida\Desktop\Repo\Operators exercise 2\obj\Debug\net5.0\Operators exercise 2.pdb
+C:\Users\gsida\Desktop\Repo\Operators exercise 2\obj\Debug\net5.0\Operators exercise 2.genruntimeconfig.cache
